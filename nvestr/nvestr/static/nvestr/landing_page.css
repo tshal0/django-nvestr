@@ -1,0 +1,18 @@
+/*	CSS file for landing_page view. */
+
+.center {
+	text-align: center;
+}
+
+.reg-form-container {
+	width: 25%;
+	margin: 0 auto;
+	border: 2px solid #EEE;
+	border-radius: 4px;
+
+}
+
+.reg-form {
+	padding: 10px;
+}
+
